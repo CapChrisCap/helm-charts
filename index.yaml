@@ -3,7 +3,17 @@ entries:
   tekton-pipeline-listener:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-06-25T12:03:28.344696733Z"
+    created: "2021-06-25T12:21:17.591448318Z"
+    description: Helm chart for tekton pipeline listener
+    digest: 579ba0cc7a4a0e75bf7f25841b52ad6aaa5e8df14bb0e0617b5c09b5867d2231
+    name: tekton-pipeline-listener
+    type: application
+    urls:
+    - tekton-pipeline-listener/tekton-pipeline-listener-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2021-06-25T12:21:17.590952372Z"
     description: Helm chart for tekton pipeline listener
     digest: e72b1c667c5ee34a78e6e816f70572b46c549b4050ae9800f1629d1026ca8861
     name: tekton-pipeline-listener
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-06-25T12:03:28.344340685Z"
+    created: "2021-06-25T12:21:17.590716992Z"
     description: Helm chart for tekton pipeline listener
     digest: c71dec3b7ecef2e16e7d599f71f2f0e0a16e4c649e1e60bee1a1faa3d7a1722b
     name: tekton-pipeline-listener
@@ -21,4 +31,4 @@ entries:
     urls:
     - tekton-pipeline-listener/tekton-pipeline-listener-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-25T12:03:28.34379424Z"
+generated: "2021-06-25T12:21:17.590307568Z"
